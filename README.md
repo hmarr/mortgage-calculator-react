@@ -6,6 +6,8 @@ A toy built to try out React. Built with:
 - ES6, using 6to5
 - JSPM
 
+See it running [here](http://hmarr.com/mortgage-calculator-react/).
+
 ## Getting it running
 
 1. Install JSPM
